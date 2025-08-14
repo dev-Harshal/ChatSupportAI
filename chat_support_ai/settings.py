@@ -99,7 +99,7 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
-AUTH_USER_MODEL = 'UsersApp.User'
+AUTH_USER_MODEL = 'users_app.User'
 
 
 # Internationalization
