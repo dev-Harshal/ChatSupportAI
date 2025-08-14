@@ -1,0 +1,23 @@
+/* Admin Chat Page Start */
+.chat-messages {
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+    gap: 0.5rem;
+}
+
+.chat-messages .visitor {
+    display: inline-block;
+    width: auto;
+    max-width: 90%;
+    margin-left: auto;
+}
+
+.chat-messages .system {
+    display: inline-block;
+    width: auto;
+    max-width: 90%;
+    margin-right: auto;
+}
+/* Admin Chat Page End */
+
